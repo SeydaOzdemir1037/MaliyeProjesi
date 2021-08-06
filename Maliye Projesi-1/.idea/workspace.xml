@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7e6a9d7-a382-4773-912a-451136f5dde7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1e1ugX86lRmIyDxqd3xEOuHJW06" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Seyda_blog" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\proje\front-end" />
+      <recent name="C:\MAMP\htdocs\proje" />
+      <recent name="C:\MAMP\htdocs\proje\admin\dist" />
+      <recent name="C:\Users\seyda\OneDrive\Masaüstü\proje\admin\dist" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\MAMP\htdocs\Maliye Projesi\front-end" />
+      <recent name="C:\MAMP\htdocs\proje\front-end" />
+      <recent name="C:\MAMP\htdocs\proje" />
+      <recent name="C:\MAMP\htdocs\proje\front-end\public" />
+      <recent name="C:\MAMP\htdocs\proje\admin\dist" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.arsaDuzenle.php">
+    <configuration name="arsaDuzenle.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Maliye Projesi-1/arsaDuzenle.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="arsalar.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/admin/dist/arsalar.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.arsaDuzenle.php" />
+        <item itemvalue="PHP Script.arsalar.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e6a9d7-a382-4773-912a-451136f5dde7" name="Default Changelist" comment="" />
+      <created>1593501531377</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593501531377</updated>
+      <workItem from="1593501533494" duration="42000" />
+      <workItem from="1593501619570" duration="13262000" />
+      <workItem from="1593583424010" duration="20919000" />
+      <workItem from="1593686843283" duration="3290000" />
+      <workItem from="1593782110255" duration="19000" />
+      <workItem from="1593983910776" duration="665000" />
+      <workItem from="1594015508615" duration="1453000" />
+      <workItem from="1594017301960" duration="1978000" />
+      <workItem from="1594019310833" duration="4464000" />
+      <workItem from="1594024000591" duration="2192000" />
+      <workItem from="1594029678007" duration="9245000" />
+      <workItem from="1594040451086" duration="4084000" />
+      <workItem from="1594103072776" duration="2536000" />
+      <workItem from="1594105650698" duration="6443000" />
+      <workItem from="1594117552605" duration="8627000" />
+      <workItem from="1594126200231" duration="3000" />
+      <workItem from="1594126248741" duration="3876000" />
+      <workItem from="1594188825633" duration="1688000" />
+      <workItem from="1594190606485" duration="14511000" />
+      <workItem from="1594212304185" duration="3682000" />
+      <workItem from="1594281215483" duration="6294000" />
+      <workItem from="1594294312889" duration="5280000" />
+      <workItem from="1594362437549" duration="17184000" />
+      <workItem from="1594620676121" duration="14283000" />
+      <workItem from="1594706753064" duration="17846000" />
+      <workItem from="1594993100032" duration="356000" />
+      <workItem from="1595190474017" duration="1219000" />
+      <workItem from="1595253238398" duration="460000" />
+      <workItem from="1595313564971" duration="417000" />
+      <workItem from="1595313993947" duration="95000" />
+      <workItem from="1595318868550" duration="1348000" />
+      <workItem from="1595416081936" duration="363000" />
+      <workItem from="1595499849616" duration="987000" />
+      <workItem from="1595578777680" duration="14030000" />
+      <workItem from="1595598740499" duration="26000" />
+      <workItem from="1595698943596" duration="38186000" />
+      <workItem from="1595924927090" duration="2302000" />
+      <workItem from="1595933337820" duration="1075000" />
+      <workItem from="1599905063709" duration="277000" />
+      <workItem from="1628255105874" duration="145000" />
+      <workItem from="1628255673393" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="404" y="12" key="#arsalar.php" timestamp="1594112158369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="404" y="12" key="#arsalar.php/0.0.1536.824@0.0.1536.824" timestamp="1594112158369" />
+    <state x="404" y="140" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594108168101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="404" y="140" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1594108168101" />
+    <state x="433" y="96" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594627285426">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="96" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1594627285426" />
+    <state x="496" y="107" key="FileChooserDialogImpl" timestamp="1599905338381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="107" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599905338381" />
+    <state width="1481" height="3" key="GridCell.Tab.0.bottom" timestamp="1595854850306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595854850306" />
+    <state width="1481" height="3" key="GridCell.Tab.0.center" timestamp="1595854850306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595854850306" />
+    <state width="1481" height="3" key="GridCell.Tab.0.left" timestamp="1595854850306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595854850306" />
+    <state width="1481" height="3" key="GridCell.Tab.0.right" timestamp="1595854850306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595854850306" />
+    <state width="1481" height="3" key="GridCell.Tab.1.bottom" timestamp="1595854850307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595854850307" />
+    <state width="1481" height="3" key="GridCell.Tab.1.center" timestamp="1595854850307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1595854850307" />
+    <state width="1481" height="3" key="GridCell.Tab.1.left" timestamp="1595854850307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1595854850307" />
+    <state width="1481" height="3" key="GridCell.Tab.1.right" timestamp="1595854850307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1595854850307" />
+    <state width="1481" height="3" key="GridCell.Tab.2.bottom" timestamp="1595854850307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595854850307" />
+    <state width="1481" height="3" key="GridCell.Tab.2.center" timestamp="1595854850307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1595854850307" />
+    <state width="1481" height="3" key="GridCell.Tab.2.left" timestamp="1595854850307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1595854850307" />
+    <state width="1481" height="3" key="GridCell.Tab.2.right" timestamp="1595854850307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1481" height="3" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1595854850307" />
+    <state x="523" y="75" key="NewPhpClassDialog" timestamp="1594120780047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="75" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1594120780047" />
+    <state x="557" y="317" key="NewPhpFileDialog" timestamp="1595853175701">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="557" y="317" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1595853175701" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1595925795654">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1595925795654" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1594709763600">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594709763600" />
+  </component>
+</project>
